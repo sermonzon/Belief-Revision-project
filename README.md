@@ -1,4 +1,4 @@
-* BELIEFSET AND ENTAILMENT EXPLANATION AND USAGE GUIDE
+# BELIEFSET AND ENTAILMENT EXPLANATION AND USAGE GUIDE
 
 1. Introduction
 BeliefSet is a Python class designed to handle belief sets in formal logic. It includes methods for expanding, contracting, and revising belief sets according to the AGM postulates. Additionally, Entailment is a class for checking entailment between a formula and a belief set.
